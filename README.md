@@ -5,4 +5,5 @@
 Currently you will need to put in already cropped images or possibly just ones with only one face in them. 
 Will add autocrop in the next few days
 
-To test an image, make a folder 'put test image here' and put any images in there(takes multiple if needed)
+To test an image, and put any images inside "in here" in the "put images here" folder(takes multiple if needed)
+model accuracy currently at 48 percent
