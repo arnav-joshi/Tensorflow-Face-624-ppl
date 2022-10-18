@@ -7,3 +7,11 @@ Will add autocrop in the next few days
 
 To test an image, and put any images inside "in here" in the "put images here" folder(takes multiple if needed)
 model accuracy currently at 48 percent
+
+# **Needed Imports**
+pip install tensorflow
+pip install numpy
+pip install Pillow
+pip install matplotlib
+
+
