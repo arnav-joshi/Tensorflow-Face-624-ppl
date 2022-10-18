@@ -10,8 +10,11 @@ model accuracy currently at 48 percent
 
 # **Needed Imports**
 pip install tensorflow
+
 pip install numpy
+
 pip install Pillow
+
 pip install matplotlib
 
 
